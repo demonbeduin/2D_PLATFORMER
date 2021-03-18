@@ -21,8 +21,6 @@ ScriptsOnlyBuild:
     - UnityEngine.InputSystem.RemoteInputPlayerConnection
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
-    Unity.Timeline.Editor.dll:
-    - TimelineProjectSettings
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -48,15 +46,15 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1506}
+      Script: {instanceID: 1508}
     - Class: 114
-      Script: {instanceID: 2682}
+      Script: {instanceID: 2684}
     - Class: 114
-      Script: {instanceID: 2876}
+      Script: {instanceID: 2878}
     - Class: 114
-      Script: {instanceID: 3076}
+      Script: {instanceID: 3078}
     - Class: 114
-      Script: {instanceID: 3332}
+      Script: {instanceID: 3334}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -1047,4 +1045,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/BEDUIN/Desktop/Games/2D_PLATFORMER.exe
+  playerPath: C:/Users/grabar_d_v/Desktop/GAMES/2D_PLATFORMER/2D_PLATFORMER.exe
