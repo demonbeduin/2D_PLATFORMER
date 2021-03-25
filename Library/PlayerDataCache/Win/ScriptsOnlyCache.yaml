@@ -4,7 +4,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
-    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.IK.Runtime.dll:
     - UnityEditor.U2D.IK.IKEditorManagerHelper
     Unity.2D.Tilemap.Editor.dll:
@@ -28,8 +27,6 @@ ScriptsOnlyBuild:
     - UnityEngine.InputSystem.UI.InputSystemUIInputModule
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
-    Unity.Timeline.Editor.dll:
-    - TimelineProjectSettings
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -68,19 +65,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 606}
     - Class: 114
-      Script: {instanceID: 1506}
+      Script: {instanceID: 1514}
     - Class: 114
-      Script: {instanceID: 2682}
+      Script: {instanceID: 2690}
     - Class: 114
-      Script: {instanceID: 2876}
+      Script: {instanceID: 2884}
     - Class: 114
-      Script: {instanceID: 3076}
+      Script: {instanceID: 3084}
     - Class: 114
-      Script: {instanceID: 3838}
+      Script: {instanceID: 3846}
     - Class: 114
-      Script: {instanceID: 4342}
+      Script: {instanceID: 4350}
     - Class: 114
-      Script: {instanceID: 4726}
+      Script: {instanceID: 4734}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -1081,4 +1078,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/BEDUIN/Desktop/Games/2D_PLATFORMER_Data/2D_PLATFORMER.exe
+  playerPath: C:/Users/grabar_d_v/Desktop/GAMES/2D_PLATFORMER/2D_PLATFORMER.exe
